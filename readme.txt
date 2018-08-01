@@ -1,1 +1,1 @@
-texto de prueba para git
+el proyecto esta en la carpeta
